@@ -1,0 +1,80 @@
+body{
+  background: #5D737E;
+  color: #DFF8EB;
+  font-size: 40px;
+  font-family: monospace;
+  font-weight: bolder;
+}
+
+#banner {
+    	text-align: center;
+      background-image: url(http://31.media.tumblr.com/tumblr_mbfs7bd2q31rwjzpqo1_500.gif);
+    	padding: 100px;
+}
+
+.card h1 {
+
+  font-family: Courier;
+  color: #A28F9D;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 40px;
+}
+
+
+h1 {
+  font-family: 'Geo', sans-serif;
+  color: #3C3744;
+  font-size: 30px;
+  text-align: center;
+  padding: 30px;
+  margin-bottom: 40px
+}
+a {
+  color: black;
+  text-align: center;
+  padding: 50px;
+
+}
+a:hover {
+  text-decoration: none;
+  color: red;
+}
+
+#shop{
+  text-align: center;
+  margin-bottom: 100px
+}
+
+.container{
+  padding: 100px;
+  border-radius: 50%;
+  text-align: center;
+}
+
+img {
+  margin: 10px;
+}
+
+
+
+#pic2{
+  background-image: src="Alienvinyl.png";
+  border-radius: 50%;
+  text-align: center;
+}
+
+#aliens{
+  padding: 10px;
+}
+
+#form-wufoo{
+  padding: 50px;
+}
+
+#footer {
+  background-color: black;
+  margin-left: 2s0px;
+  text-align: center;
+
+}
